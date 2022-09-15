@@ -19,4 +19,4 @@ Suggest a region for development of oil wells and justify the choice.
 
 ### Results:
 - GEO-1 have the highest average oil reserves chosen by our models.
-- GEO-1 is the only region that have positive revenue in its lower 2.5% quantile hence the lowest loss risk.
+- GEO-1 is the only region that have positive revenue in its lower bootstrapping 2.5% quantile hence the lowest loss risk.
